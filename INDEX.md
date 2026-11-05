@@ -1,0 +1,19 @@
+# Índice
+
+| Data | Artigo | Tema |
+|------|--------|------|
+| 2026-11-05 | [SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification](papers/2026-11-05-2611.06876-speccompact.md) | Raciocínio eficiente / Custo / Compactação de contexto |
+| 2026-11-05 | [SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory](papers/2026-11-05-2611.06445-sumone.md) | Agentes / Memória de longo prazo / Compactação |
+| 2026-11-05 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](papers/2026-11-05-2611.06500-latent-tool-compression.md) | Custo de tokens / Compressão de ferramentas |
+| 2026-11-05 | [When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries](papers/2026-11-05-2611.06545-handoff-summaries-policy.md) | Agentes de longa duração / Handoff / Engenharia de contexto |
+| 2026-11-05 | [MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing](papers/2026-11-05-2611.06389-ma-mesh.md) | Multiagente / Resiliência / Governança de papéis |
+| 2026-11-05 | [Where Search Agents Go Off the Rails: Graph-Grounded Step-Level Verification](papers/2026-11-05-2611.06662-graphrail.md) | Avaliação / Verificação sem juiz generativo |
+| 2026-11-05 | [SAUCE: Summary Analysis Using Conversation Entailment](papers/2026-11-05-2611.06812-sauce.md) | Avaliação / Fala / Resumo de conversa |
+| 2026-11-05 | [On Turn-Level Best-of-N Sampling for Scaling LLM Agents](papers/2026-11-05-2611.06868-turn-level-best-of-n.md) | Agentes / Scaling de inferência / Best-of-N |
+| 2026-11-05 | [Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants](papers/2026-11-05-2611.06839-tasc-time-sensitive-safety.md) | Assistentes conversacionais / Restrições temporais |
+| 2026-11-04 | [Swapping the Judge Changes the Ranking: A Preregistered Study of Cross-Provider Replication in LLM-Judged System Comparisons](papers/2026-11-04-2611.04090-llm-judge-ranking.md) | Avaliação / LLM-as-a-judge |
+| 2026-11-04 | [The Agent Board: Kanban for Machines; Durable Coordination for Agents That Outlive the Conversation](papers/2026-11-04-2611.04100-agent-board-kanban.md) | Agentes / Multi-agente / Arquitetura |
+| 2026-11-04 | [What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory](papers/2026-11-04-2611.03930-memory-task-utility.md) | Agentes / Memória de longo prazo |
+| 2026-11-04 | [Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost](papers/2026-11-04-2611.03852-reasoning-history-compaction.md) | Raciocínio eficiente / Custo de agentes |
+| 2026-11-04 | [When Strong Reasoners Join the Pool: Small Union Premiums and Costly Runaway Generations in LLM Routing](papers/2026-11-04-2611.04098-llm-routing-premium.md) | Roteamento de LLMs / Custo |
+| 2026-11-04 | [ATC: Agent Trajectory Control for Role-Contract Enforcement in Black-Box Multi-Agent Systems](papers/2026-11-04-2611.04321-atc-role-contract.md) | Multiagente / Governança de papéis |
