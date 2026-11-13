@@ -2,6 +2,8 @@
 
 | Data | Notícia | Fonte | Tema |
 |------|---------|-------|------|
+| 2026-11-06 | [Agents Are Going Async](2026-11-06-agents-are-going-async.md) | LangChain Blog | Multiagente / orquestração |
+| 2026-11-06 | [Context Engineering starts with retrieval](2026-11-06-context-engineering-starts-with-retrieval.md) | LangChain Blog | Engenharia de contexto |
 | 2026-11-05 | [Human insight as strategic advantage for agents](2026-11-05-human-insight-strategic-advantage-agents.md) | LangChain Blog | Avaliação / HITL |
 | 2026-11-05 | [DevRev: enterprise self-service with GPT-6.1 Sol](2026-11-05-devrev-enterprise-self-service.md) | OpenAI News | Atendimento / agentes |
 | 2026-11-05 | [Phonon TTS: on-device speech](2026-11-05-phonon-tts.md) | Hugging Face Blog | Fala / TTS |

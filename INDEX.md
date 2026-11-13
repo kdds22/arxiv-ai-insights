@@ -2,6 +2,12 @@
 
 | Data | Artigo | Tema |
 |------|--------|------|
+| 2026-11-06 | [Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs](papers/2026-11-06-2611.07483-signed-requirement-handoffs.md) | Multiagente / Handoff / Integridade de requisitos |
+| 2026-11-06 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](papers/2026-11-06-2609.30137-cx-agent-simulation.md) | Atendimento / Agentes em produção / Simulação |
+| 2026-11-06 | [Who Should Know What? Empirical Information Design for Multi-Agent LLM Economies](papers/2026-11-06-2611.07667-information-design-multiagent.md) | Multiagente / Política de informação |
+| 2026-11-06 | [Beyond K/V Caches: Cross-Model State Handoff in Hybrid Linear-Attention LLMs](papers/2026-11-06-2611.08133-hybrid-state-transfer.md) | Custo / Roteamento / Handoff de estado |
+| 2026-11-06 | [Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory](papers/2026-11-06-2611.08092-e-gaborformer.md) | Fala / ASR / Agentes de voz |
+| 2026-11-06 | [Recursive Self-Improvement for Long-Horizon Role-Playing Dialogue](papers/2026-11-06-2611.07469-rsi-roleplay-dialogue.md) | Diálogo / Memória / Persona |
 | 2026-11-05 | [SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification](papers/2026-11-05-2611.06876-speccompact.md) | Raciocínio eficiente / Custo / Compactação de contexto |
 | 2026-11-05 | [SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory](papers/2026-11-05-2611.06445-sumone.md) | Agentes / Memória de longo prazo / Compactação |
 | 2026-11-05 | [Tools Need Not Speak in Text: Latent Context Compression for Agents](papers/2026-11-05-2611.06500-latent-tool-compression.md) | Custo de tokens / Compressão de ferramentas |
