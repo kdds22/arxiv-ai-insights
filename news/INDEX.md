@@ -2,6 +2,7 @@
 
 | Data | Notícia | Fonte | Tema |
 |------|---------|-------|------|
+| 2026-11-10 | [Muse Ember: Meta's smallest, most efficient model](2026-11-10-muse-ember.md) | Meta AI Research | Modelo pequeno / tool calls / custo por tarefa |
 | 2026-11-06 | [Agents Are Going Async](2026-11-06-agents-are-going-async.md) | LangChain Blog | Multiagente / orquestração |
 | 2026-11-06 | [Context Engineering starts with retrieval](2026-11-06-context-engineering-starts-with-retrieval.md) | LangChain Blog | Engenharia de contexto |
 | 2026-11-05 | [Human insight as strategic advantage for agents](2026-11-05-human-insight-strategic-advantage-agents.md) | LangChain Blog | Avaliação / HITL |
