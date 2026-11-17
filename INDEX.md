@@ -2,6 +2,7 @@
 
 | Data | Artigo | Tema |
 |------|--------|------|
+| 2026-11-17 | [Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live](papers/2026-11-17-2611.19118-voice-negotiation-latency.md) | Fala / Agente de voz / Negociação / Latência e turn-taking |
 | 2026-11-10 | [Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity](papers/2026-11-10-2611.10884-fsm-procedure-control.md) | Agentes / Procedimento / Controle executável |
 | 2026-11-06 | [Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs](papers/2026-11-06-2611.07483-signed-requirement-handoffs.md) | Multiagente / Handoff / Integridade de requisitos |
 | 2026-11-06 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](papers/2026-11-06-2609.30137-cx-agent-simulation.md) | Atendimento / Agentes em produção / Simulação |
